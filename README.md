@@ -1,5 +1,6 @@
-<h1 align="center">Hi,![Demo Animation]([https://github.com/images/mona-whisper.gif]) I'm MAHNAZ</h1> 
+<h1 align="center">Hi, I'm MAHNAZ</h1> 
 <h3 align="center">Robotics Engineer at University of Genova</h3>
+![Demo Animation]([https://github.com/images/mona-whisper.gif])
 
 - 🔭 I’m currently working on **AI reinforcement**
 
