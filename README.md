@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MAHNAZ</h1>
+<h1 align="center">Hi, I'm MAHNAZ</h1> ![Alt Text](https://github.com/images/mona-whisper.gif)
 <h3 align="center">Robotics Engineer at University of Genova</h3>
 
 - 🔭 I’m currently working on **AI reinforcement**
