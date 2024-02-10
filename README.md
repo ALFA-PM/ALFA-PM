@@ -1,4 +1,4 @@
-![Alt text](C:\Users\Admin\Desktop\mee.png "Optional title")
+![Alt text](C:\Users\Admin\Desktop\mee.png)
 
 <h1 align="center">Hi 👋, I'm MAHNAZ</h1>
 <h3 align="center">Robotics Engineer at University of Genova</h3>
