@@ -1,3 +1,5 @@
+[![ALFA-PM's GitHub Banner](./assets/GitHubHeader.png)]
+
 <h1 align="center">Hi 👋, I'm MAHNAZ</h1>
 <h3 align="center">Robotics Engineer at University of Genova</h3>
 
