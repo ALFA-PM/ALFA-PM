@@ -1,4 +1,4 @@
-[![ALFA-PM's GitHub Banner](./assets/GitHubHeader.png)]
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
 <h1 align="center">Hi 👋, I'm MAHNAZ</h1>
 <h3 align="center">Robotics Engineer at University of Genova</h3>
