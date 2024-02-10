@@ -1,4 +1,4 @@
-![Alt text]![mee](https://github.com/ALFA-PM/ALFA-PM/assets/147394202/d375a5d9-982b-4bff-8b15-04be8c1c06cf)
+![mee](https://github.com/ALFA-PM/ALFA-PM/assets/147394202/d375a5d9-982b-4bff-8b15-04be8c1c06cf)
 
 
 <h1 align="center">Hi 👋, I'm MAHNAZ</h1>
